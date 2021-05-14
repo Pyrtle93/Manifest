@@ -56,7 +56,7 @@
   <project path="frameworks/av" name="frameworks_av" remote="derp" />
   <project path="frameworks/base" name="frameworks_base" remote="derp" />
   <project path="frameworks/native" name="frameworks_native" remote="derp" />
-  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="derp" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="Pyrtle93" revision="A11" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="derp" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="derp" />
 
@@ -131,6 +131,7 @@
   <project path="packages/apps/SimIcons" name="simrat39/icon-pack" remote="github" revision="master" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="derp" />
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="derp" />
+  <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="Pyrtle93" revision="11" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="derp" />
   <project path="packages/overlays/Shishufied" name="packages_overlays_Shishufied" remote="derp" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="derp" />
